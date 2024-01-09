@@ -1,4 +1,4 @@
-## [1.0.0]
+## [1.0.1]
 
 - Update ReadMe
 - Update Dart Version
