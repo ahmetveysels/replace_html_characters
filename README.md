@@ -5,7 +5,7 @@ With this package, you can easily replace html characters in string data.
 
 ## Features
 
-![Replace Html Characters](https://avseng.net/flutterpackages/replace_html_characters/screenshot.png)
+![Replace Html Characters](https://ahmetveysel.com/flutterpackages/replace_html_characters/screenshot.png)
 
 ## Getting started
 
@@ -38,4 +38,4 @@ print(modifiedData);
 #
 ## Additional information
 
-[avseng.net](https://avseng.net)
+[ahmetveysel.com](https://ahmetveysel.com)
