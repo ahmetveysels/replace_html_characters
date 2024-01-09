@@ -1,9 +1,9 @@
 name: replace_html_characters
 description: With this package, you can easily replace html characters in string data.
 version: 1.0.1
-homepage: https://github.com/avdisx
-repository: https://github.com/avdisx/replace_html_characters
-documentation: https://github.com/avdisx/replace_html_characters
+homepage: https://github.com/ahmetveysels
+repository: https://github.com/ahmetveysels/replace_html_characters
+documentation: https://github.com/ahmetveysels/replace_html_characters
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
